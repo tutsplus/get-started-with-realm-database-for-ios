@@ -1,0 +1,6 @@
+framework module Pods_RealmDo {
+  umbrella header "Pods-RealmDo-umbrella.h"
+
+  export *
+  module * { export * }
+}
